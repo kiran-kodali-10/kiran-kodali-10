@@ -38,7 +38,9 @@ A passionate Full Stack Software Engineer with 3 years of industry experience in
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiran-kodali-10&layout=compact&langs_count=8&card_width=320" />
 </a>
+
 ![Profile views](https://komarev.com/ghpvc/?username=kiran-kodali-10)
+
 <!--
 
 
