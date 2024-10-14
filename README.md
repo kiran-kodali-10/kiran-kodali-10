@@ -18,9 +18,13 @@ A passionate Full Stack Software Engineer with 3 years of industry experience in
 📄 Know about my experiences https://drive.google.com/file/d/1rNaYy7BpIBqjCFUMCGlsUJjINgDo_bd9/view?usp=sharing <br/>
 
 
+### Connect me with: 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kiran-kodali/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.linkedin.com/in/kiran-kodali/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+<!--   <a> <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/> </a> -->
 <!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
 </div>
 
