@@ -1,8 +1,23 @@
-## Hi 👋, I'm Kiran Kodali
+## Hi 👋,  I'm Kiran Kodali
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-I'm
+
+A passionate Full Stack Software Engineer with 3 years of industry experience in Software Engineering.<br />
+
+🌱 I’m currently learning Data Science, Machine Learning <br />
+
+👨‍💻 All of my projects are available at https://kiran-kodali-10.github.io/resume-website/<br />
+
+💬 Ask me about Java, Javascript, React.js, AWS<br />
+
+📫 How to reach me kiran.kodali10@gmail.com<br />
+
+📄 Know about my experiences https://drive.google.com/file/d/1rNaYy7BpIBqjCFUMCGlsUJjINgDo_bd9/view?usp=sharing <br/>
+
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/kiran-kodali/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
