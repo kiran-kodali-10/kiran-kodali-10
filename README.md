@@ -9,8 +9,6 @@ I'm
 <!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiran-kodali-10)](https://github.com/kiran-kodali-10)
-
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kiran-kodali-10" />
 </a>
