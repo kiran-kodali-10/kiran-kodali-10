@@ -9,13 +9,13 @@ A passionate Full Stack Software Engineer with 3 years of industry experience in
 
 🌱 I’m currently learning Data Science, Machine Learning <br />
 
-👨‍💻 All of my projects are available at https://kiran-kodali-10.github.io/resume-website/<br />
+👨‍💻 All of my projects are available at [Portfolio](https://kiran-kodali-10.github.io/resume-website/)<br />
 
 💬 Ask me about Java, Javascript, React.js, AWS<br />
 
-📫 How to reach me kiran.kodali10@gmail.com<br />
+📫 How to reach me kiran.kodali10@gmail.com <br />
 
-📄 Know about my experiences https://drive.google.com/file/d/1rNaYy7BpIBqjCFUMCGlsUJjINgDo_bd9/view?usp=sharing <br/>
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/1rNaYy7BpIBqjCFUMCGlsUJjINgDo_bd9/view?usp=sharing) <br/>
 
 
 ### Connect me with: 
@@ -28,6 +28,7 @@ A passionate Full Stack Software Engineer with 3 years of industry experience in
 <!--   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
 </div>
 
+### Languages and Tools: 
 <a href="">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kiran-kodali-10" />
 </a>
