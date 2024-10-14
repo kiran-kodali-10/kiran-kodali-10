@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-A passionate Full Stack Software Engineer with 3 years of industry experience in Software Engineering.<br />
+### A passionate Full Stack Software Engineer with 2+ years of industry experience in Software Engineering.<br />
 
 🌱 I’m currently learning Data Science, Machine Learning <br />
 
